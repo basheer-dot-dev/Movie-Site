@@ -1,2 +1,2 @@
-# React Movie App
- Using React to create an intuituve GUI client for navigating the TMDB API.
+# Movie Site
+ Using Plain CSS and TMDB API to create an intuituve website for searching movies on the web.
